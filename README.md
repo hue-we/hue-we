@@ -17,5 +17,6 @@ i hold a qualification in Information Systems (Software Development) from Eduvos
 
 open to opportunities
 i'm actively looking for junior developer roles, internships, and graduate programmes where i can grow alongside a strong technical team. if you're building something interesting and need a developer who's been in the field — let's talk.
+
 📧 reach me here on github or drop me a message
 currently based in potchefstroom — open to relocation for the right opportunity

@@ -1,4 +1,4 @@
-hey, i'm mo 👋
+hey, i'm mo 
 
 full-stack developer based in potchefstroom, south africa. i build websites and web applications for real clients — from event companies to auto dealerships. i've been freelancing for about two years and i'm always working on something.
 

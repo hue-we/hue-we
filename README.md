@@ -21,7 +21,7 @@ React + Vite + Tailwind + Framer Motion on the frontend, Node/Express/MongoDB on
 
 ## 🎓 Background
 
-Higher Certificate in Information Systems (Software Development), Eduvos (NQF5) · MERN internship at Coveda Technologies · WeThinkCode_ GenAI certificate
+Information Systems (Software Development), Eduvos · MERN internship at Coveda Technologies · WeThinkCode_ GenAI certificate
 
 ## 📫 Find me
 

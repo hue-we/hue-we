@@ -1,25 +1,29 @@
-hey, i'm mo 
+# Hi, I'm Mo 👋
 
-full-stack developer based in potchefstroom, south africa. i build websites and web applications for real clients — from event companies to auto dealerships. i've been freelancing for about two years and i'm always working on something.
+Junior full-stack developer based in Potchefstroom, South Africa — building with **C#/.NET** and the **MERN** stack, and actively hunting for my first full-time developer role (open to relocating to Gauteng, Western Cape, or KwaZulu-Natal).
 
-what i work with
-frontend — HTML, CSS, JavaScript, React
-backend — Node.js, Python, C#, .NET, Java
-databases — SQL, MySQL
-tools — Git, GitHub, VS Code, Linux
+## 🔧 What I work with
 
+- **Core:** C# / ASP.NET Core 8, JavaScript/TypeScript, React, Node.js, Express, MongoDB, MySQL
+- **Also comfortable with:** Spring Boot, Angular, Django, React Native
+- **Currently leveling up:** TypeScript, Java, Python — closing gaps I keep seeing in job postings
 
-some things i've built
-- **Cartridge & Console** — a full-stack second-hand game marketplace. React frontend, ASP.NET Core API, MySQL, JWT auth on every write. deployed across three separate platforms (Netlify, Render, Railway) instead of one bundled host.
-- **this portfolio** — rebuilt from scratch with React, Node, Express, and MongoDB, with a working admin panel so i can add or edit projects without touching code.
-- **Harvested Flavour** — a speculative full build for a restaurant with no web presence, pitched cold with a live demo instead of a proposal.
-- **Premier Attraction Events** — full event company website with a swipe gallery and booking info, built and deployed for a real client.
+## 🚀 Featured projects
 
-currently working on more client projects across events, automotive, and hospitality.
-i hold a qualification in Information Systems (Software Development) from Eduvos, where i studied software engineering, database design, Java, C#, Linux, and more. outside of code i'm into music production, film, and art
+### [Cartridge & Console](#) — flagship project
+A full-stack retro game marketplace built with ASP.NET Core 8, React, and MySQL. Fully deployed with Docker and CI/CD, secured with JWT auth and rate limiting, backed by 13 xUnit tests. Comes with its own case study PDF and architecture/ERD diagrams.
 
-open to opportunities
-i'm actively looking for junior developer roles, internships, and graduate programmes where i can grow alongside a strong technical team. if you're building something interesting and need a developer who's been in the field — let's talk.
+### [Portfolio site](#)
+React + Vite + Tailwind + Framer Motion on the frontend, Node/Express/MongoDB on the backend, with a password-protected admin panel for managing projects.
 
-📧 reach me here on github or drop me a message
-currently based in pretoria — open to relocation for the right opportunity
+### Other builds
+- **MysticByte** — C# WinForms educational math game (98% at university)
+
+## 🎓 Background
+
+Higher Certificate in Information Systems (Software Development), Eduvos (NQF5) · MERN internship at Coveda Technologies · WeThinkCode_ GenAI certificate
+
+## 📫 Find me
+
+- Portfolio: [mo-codes-portfolio.netlify.app](https://mo-codes-portfolio.netlify.app)
+- GitHub: [@hue-we](https://github.com/hue-we)

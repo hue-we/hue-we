@@ -4,7 +4,7 @@
 
 **C# / .NET 8 &nbsp;•&nbsp; MERN &nbsp;•&nbsp; Clean architecture &nbsp;•&nbsp; Shipping real things**
 
-📍 Potchefstroom, South Africa &nbsp;|&nbsp; 🚀 Open to relocating: Gauteng · Western Cape · KwaZulu-Natal
+📍 Pretoria, Gauteng &nbsp;|&nbsp; 🚀 Open to relocating: Western Cape · KwaZulu-Natal
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mo--codes--portfolio-6366f1?style=for-the-badge&logo=netlify&logoColor=white)](https://mo-codes-portfolio.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mongezi-mabuza-7198172b0)
